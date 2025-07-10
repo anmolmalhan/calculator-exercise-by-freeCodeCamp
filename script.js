@@ -40,3 +40,4 @@ function calculateSquareRoot(num) {
 }
 console.log(calculateSquareRoot(16));
 console.log(calculateSquareRoot(25));
+console.log(calculateSquareRoot(81));
